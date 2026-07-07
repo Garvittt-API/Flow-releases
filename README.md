@@ -1,6 +1,6 @@
-# Wave Music Player
+# Flow Music Player
 
-Download the latest version of Wave Music Player for Android.
+Download the latest version of Flow Music Player for Android.
 
 ## Download
 
@@ -25,8 +25,7 @@ Go to the [Releases](https://github.com/Garvittt-API/wave-releases/releases) pag
 ## Links
 
 - [Extensions Repository](https://github.com/Garvittt-API/wave-extension)
-- [Discord Server](https://discord.gg/Wexvx8JS8a)
 
 ## Support
 
-Join our [Discord server](https://discord.gg/Wexvx8JS8a) for support and updates.
+mail garvitchoudhary2315@gmail.com for support 
