@@ -4,7 +4,7 @@ Download the latest version of Flow Music Player for Android.
 
 ## Download
 
-Go to the [Releases](https://github.com/Garvittt-API/wave-releases/releases) page to download the latest APK.
+Go to the [Releases](https://github.com/Garvittt-API/Flow-releases/releases) page to download the latest APK.
 
 ## Features
 
@@ -16,7 +16,7 @@ Go to the [Releases](https://github.com/Garvittt-API/wave-releases/releases) pag
 
 ## Installation
 
-1. Download the APK from [Releases](https://github.com/Garvittt-API/wave-releases/releases)
+1. Download the APK from [Releases](https://github.com/Garvittt-API/Flow-releases/releases)
 2. Open the APK file on your Android device
 3. Enable "Install from unknown sources" if prompted
 4. Tap Install
@@ -24,7 +24,7 @@ Go to the [Releases](https://github.com/Garvittt-API/wave-releases/releases) pag
 
 ## Links
 
-- [Extensions Repository](https://github.com/Garvittt-API/wave-extension)
+- [Extensions Repository](https://github.com/Garvittt-API/Flow-extension)
 
 ## Support
 
