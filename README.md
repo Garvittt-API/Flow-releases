@@ -67,7 +67,7 @@ Setting up Flow requires two rapid phases: deploying the core player, then synci
 ### 🔌 Phase 2: Synchronize Music Extensions
 1. Head to the dedicated **[Flow Extension Channel](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)** and grab your chosen `.eapk` plugin.
 2. Inside the **Flow App**, tap the menu button situated in the **Top Right Corner**.
-3. It will open "music extensions".
+3. It will open **'Music extensions'**.
 4. Press the **Add (+)** button action and choose **File**.
 5. Your system's native File Manager will open—simply pick your downloaded `.eapk` file to initialize the module.
 
