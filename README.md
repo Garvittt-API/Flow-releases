@@ -1,8 +1,3 @@
-To make your README look absolutely elite and stand out on GitHub, we can simulate an interactive **Now Playing UI Dashboard** right inside the text using clean HTML blocks and code graphics, alongside placeholders for your actual app screenshots.
-
-Copy and paste this ultra-premium, highly creative layout into your `README.md`:
-
-```markdown
 <div align="center">
 
 <!-- APP LOGO -->
