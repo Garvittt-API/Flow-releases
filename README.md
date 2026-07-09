@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -21,9 +22,9 @@
 
 <h4>
   <a href="#-the-flow-experience">Experience</a> • 
+  <a href="#-supported-platforms">Platforms</a> • 
   <a href="#-installation-terminal">Installation</a> • 
-  <a href="#-modular-architecture">Architecture</a> • 
-  <a href="#-project-ecosystem">Ecosystem</a>
+  <a href="#-modular-architecture">Architecture</a>
 </h4>
 
 ---
@@ -42,15 +43,21 @@ Flow isn't just a music player; it is a highly scalable audio engine built on a 
 
 ---
 
-## 📸 Interface Preview
+## 🌐 Supported Platforms
+
+Flow's modular `.eapk` framework currently supports seamless integration with the following media servers and streaming platforms:
 
 <div align="center">
-  <!-- NOTE: Replace these placeholder URLs with actual screenshots of your app -->
-  <img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?q=80&w=250&auto=format&fit=crop" width="22%" style="border-radius: 12px; margin: 0 5px;" alt="Home Screen"/>
-  <img src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?q=80&w=250&auto=format&fit=crop" width="22%" style="border-radius: 12px; margin: 0 5px;" alt="Player Screen"/>
-  <img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?q=80&w=250&auto=format&fit=crop" width="22%" style="border-radius: 12px; margin: 0 5px;" alt="Library Screen"/>
-  <img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=250&auto=format&fit=crop" width="22%" style="border-radius: 12px; margin: 0 5px;" alt="Extension Screen"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/512px-Youtube_Music_icon.svg.png" width="70" style="margin: 15px;" alt="YouTube Music"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deezer_logo_Icon.svg/512px-Deezer_logo_Icon.svg.png" width="70" style="margin: 15px;" alt="Deezer"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jellyfin_logo.svg/512px-Jellyfin_logo.svg.png" width="70" style="margin: 15px;" alt="Jellyfin"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/JioSaavn_Logo.svg/512px-JioSaavn_Logo.svg.png" width="70" style="margin: 15px;" alt="JioSaavn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Groove_Music_icon_2017.svg/512px-Groove_Music_icon_2017.svg.png" width="70" style="margin: 15px;" alt="Groove Music"/>
 </div>
+
+<p align="center">
+  <i>More platforms can be added dynamically by importing new extension modules!</i>
+</p>
 
 ---
 
