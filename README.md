@@ -48,11 +48,11 @@ Flow isn't just a music player; it is a highly scalable audio engine built on a 
 Flow's modular `.eapk` framework currently supports seamless integration with the following media servers and streaming platforms:
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/512px-Youtube_Music_icon.svg.png" width="70" style="margin: 15px;" alt="YouTube Music"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deezer_logo_Icon.svg/512px-Deezer_logo_Icon.svg.png" width="70" style="margin: 15px;" alt="Deezer"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jellyfin_logo.svg/512px-Jellyfin_logo.svg.png" width="70" style="margin: 15px;" alt="Jellyfin"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/JioSaavn_Logo.svg/512px-JioSaavn_Logo.svg.png" width="70" style="margin: 15px;" alt="JioSaavn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Groove_Music_icon_2017.svg/512px-Groove_Music_icon_2017.svg.png" width="70" style="margin: 15px;" alt="Groove Music"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6um_bMioNod-TuAgqrmxHpkAbP7NKweT65O0-gI8ESw&s=10" width="70" style="margin: 15px;" alt="YouTube Music"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWTwW6G3u6BD3EKtlDvGQh2b1hR1F8NXhhdH34kEHEA&s=10" width="70" style="margin: 15px;" alt="Deezer"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzmPtxMIa4TqQPN8pwGny-xfU4IA6O6yZPM6hrdPmD_YPNJjehdm7Qls3&s=10" width="70" style="margin: 15px;" alt="Jellyfin"/>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/067/941/728/small/jiosaavn-logo-rounded-hd-free-png.png" width="70" style="margin: 15px;" alt="JioSaavn"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXZYUmaT3qdSVLRyYTPCnj_WtxUzTK4tFGKHExCsB_w&s" width="70" style="margin: 15px;" alt="Groove Music"/>
 </div>
 
 <p align="center">
