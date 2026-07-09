@@ -1,56 +1,93 @@
+<div align="center">
+
+<!-- Replace 'icon.png' with the actual path to your blue icon in your repository -->
+<img src="icon.png" alt="Flow Music Player Icon" width="120" height="120" style="border-radius: 24px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"/>
+
 # 🎵 Flow Music Player
+### *The professional, extension-based music hub for Android.*
 
-A lightweight, modern, open-source music player for Android built with a stunning Material Design 3 interface. Flow uses a modular, extension-based architecture to give you full control over your music sources—with completely zero ads and zero tracking.
+[![License](https://img.shields.io/github/license/Garvittt-API/Flow-releases?color=3498db&style=for-the-badge)](https://github.com/Garvittt-API/Flow-releases)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Garvittt-API/Flow-releases)
+[![Ad Free](https://img.shields.io/badge/Ads-Strictly%20Zero-red?style=for-the-badge)](https://github.com/Garvittt-API/Flow-releases)
 
----
-
-## 📥 Download
-
-Get the latest stable version of the core player from our official releases page:
-👉 **[Download Flow APK](https://github.com/Garvittt-API/Flow-releases/releases)**
-
----
-
-## ✨ Features
-
-*   **Extension-Based Architecture:** Keep your app lightweight and plug in only the music sources you need.
-*   **Broad Source Support:** Compatible with extensions for popular platforms like YouTube, Spotify, Deezer, and more.
-*   **Material Design 3:** A gorgeous, clean, and intuitive user interface that matches modern Android aesthetics.
-*   **Offline Playback:** Listen to your favorite downloaded tracks anytime, anywhere.
-*   **Privacy First:** Entirely open-source, featuring no ads, no telemetry, and no data tracking.
+<p align="center">
+  <a href="#-key-features">Features</a> •
+  <a href="#-installation--setup">Setup Guide</a> •
+  <a href="#-quick-links">Repositories</a> •
+  <a href="#-get-in-touch">Support</a>
+</p>
 
 ---
 
-## 🚀 Installation & Setup Guide
+<p align="center">
+  Flow is a lightweight, modern, open-source audio streaming player built with a stunning Material Design 3 interface. By leveraging a modular architecture, the core engine remains incredibly fast while giving you the freedom to load separate music source plugins securely.
+</p>
 
-Because Flow is modular, setting it up requires two quick phases: installing the core player and importing your preferred music extension.
+</div>
 
-### Phase 1: Install the App
-1. Download the latest `.apk` file from the **[Releases Page](https://github.com/Garvittt-API/Flow-releases/releases)**.
-2. Open the downloaded file on your Android device.
-3. If prompted, enable **"Install from unknown sources"** in your device settings.
-4. Tap **Install** and open the app.
+---
 
-### Phase 2: Add Music Extensions
-1. Download your desired music source extension from the **[Flow Extensions Page](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)**.
-2. Open the **Flow** app and tap the icon in the **Top Right Corner**.
-3. It will open **'Music extensions'** .
-4. Press the **Add (+)** button, then choose the **File** option.
-5. Your system File Manager will open—simply select the `.eapk` extension file you just downloaded.
+## ⚡ Key Features
 
-🎉 **All steps are completed! You are ready to explore your library and enjoy your music.**
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🧩 Extension Architecture</h4>
+      Keep your core app lightweight. Plug in only the streaming sources you actively use.
+    </td>
+    <td width="50%">
+      <h4>🎨 Material Design 3 UI</h4>
+      A beautiful, fluid user interface utilizing dynamic modern Android aesthetics.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🚀 Popular Ecosystem</h4>
+      Supports customized scrapers for platforms like <b>YouTube</b>, <b>Spotify</b>, <b>Deezer</b>, and more.
+    </td>
+    <td width="50%">
+      <h4>🛡️ Ultimate Privacy</h4>
+      100% open-source logic. No background tracking scripts, no telemetry, and completely ad-free.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📥 Installation & Setup
+
+Setting up Flow requires two rapid phases: deploying the core player, then syncing your extensions file. Follow the visual roadmap below:
+
+### 📱 Phase 1: Deploy Core App
+1. Navigate to the official **[Flow Releases](https://github.com/Garvittt-API/Flow-releases/releases)** terminal.
+2. Download and launch the latest application `.apk` file.
+3. If prompted by your OS, enable **"Install from Unknown Sources"** to grant permission.
+4. Finalize installation and open **Flow**.
+
+### 🔌 Phase 2: Synchronize Music Extensions
+1. Head to the dedicated **[Flow Extension Channel](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)** and grab your chosen `.eapk` plugin.
+2. Inside the **Flow App**, tap the menu button situated in the **Top Right Corner**.
+3. It will open "music extensions".
+4. Press the **Add (+)** button action and choose **File**.
+5. Your system's native File Manager will open—simply pick your downloaded `.eapk` file to initialize the module.
+
+> 💡 **Success!** Setup is complete. Your individual plugins are now linked, and you are ready to stream your audio library flawlessly.
 
 ---
 
 ## 🔗 Quick Links
 
-*   🌐 **Core App Releases:** [Flow Releases](https://github.com/Garvittt-API/Flow-releases)
-*   🧩 **Extensions Repository:** [Flow Extensions](https://github.com/Garvittt-API/Flow-extension)
+*   🖥️ **Core Distribution:** [Flow-releases](https://github.com/Garvittt-API/Flow-releases)
+*   📦 **Plugin Ecosystem:** [Flow-extension](https://github.com/Garvittt-API/Flow-extension)
 
 ---
 
-## 📬 Support & Contact
+## 📬 Get in Touch
 
-If you run into issues, want to report a bug, or have a feature suggestion:
-*   Open an issue directly in the repository.
-*   Reach out via email at: **garvitchoudhary2315@gmail.com**
+If you find a bug, wish to request features, or need developer assistance:
+* Create an active ticket in our repository **Issues** portal.
+* Reach out directly via encrypted communication: **garvitchoudhary2315@gmail.com**
+
+<div align="center">
+  <sub>Built with ❤️ by Garvittt. Open Source under the MIT License.</sub>
+</div>
