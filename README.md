@@ -63,20 +63,7 @@ Flow's modular `.eapk` framework currently supports seamless integration with th
 
 ## 🚀 Installation Terminal
 
-Follow this procedural pipeline to establish your localized Flow installation environment.
-
-```mermaid
-graph LR
-    A[Download Flow APK] -->|Install| B(Enable Unknown Sources)
-    B --> C{Launch Base Engine}
-    C -->|Core Active| D[Import .EAPK Plugin]
-    D --> E((Unrestricted Audio Flow))
-    
-    style A fill:#0052CC,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#1a1a1a,stroke:#007BFF,stroke-width:2px,color:#fff
-    style E fill:#009944,stroke:#fff,stroke-width:2px,color:#fff
-
-```
+Follow this :
 
 ### 🔹 Phase 1: Deploy Core Application Engine
 
