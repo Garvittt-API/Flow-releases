@@ -65,21 +65,22 @@ Flow's modular `.eapk` framework currently supports seamless integration with th
 
 Follow this :
 
-### 🔹 Phase 1: Deploy Core Application Engine
+### 📱 Phase 1: Install the Flow App
 
-1. Access the master distribution vault via the **[Flow Releases Page](https://github.com/Garvittt-API/Flow-releases/releases)**.
-2. Initialize execution on your target device by downloading the latest system `.apk` asset.
-3. Permit system authorization overrides if prompted (*"Allow installation from Unknown Sources"*).
-4. Run the installer script, execute file unpacking, and launch **Flow**.
+1. Go to the **[Flow Releases Page](https://github.com/Garvittt-API/Flow-releases/releases)**.
+2. Download the latest `.apk` file to your device.
+3. If your phone asks for permission, allow it to **"Install apps from unknown sources."**
+4. Open the downloaded file and install the **Flow** app.
 
-### 🔹 Phase 2: Inject Driver Extensions
+---
 
-1. Capture your preferred plugin module from the official **[Flow Extensions Vault](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)**.
-2. Open **Flow** then see the **setting** icon on the Top-Right corner.
-3. Then scroll download and click on **extensions**.
-4. Press the **Add (+)** utility button and click on the **File** selection criteria option.
-5. Choose your downloaded `.eapk` module asset inside the Android Storage File Tree wrapper to hot-load the music framework instantly.
+### 🔌 Phase 2: Add Extensions (Plugins)
 
+1. Download your preferred plugin from the **[Flow Extensions Vault](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)** (the file will end in `.eapk`).
+2. Open the **Flow** app and tap the **Settings (gear) icon** in the top-right corner.
+3. Scroll down and tap on **Extensions**.
+4. Tap the **Plus (+)** button, then select **File**.
+5. Find and select the `.eapk` file you just downloaded from your phone's files to activate it.
 ---
 
 ## 🏗️ Modular Architecture
