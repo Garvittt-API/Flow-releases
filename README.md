@@ -75,8 +75,8 @@ Follow this :
 ### 🔹 Phase 2: Inject Driver Extensions
 
 1. Capture your preferred plugin module from the official **[Flow Extensions Vault](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)**.
-2. Fire up Flow ➔ Locate and trigger the Control Action button in the **Top Right Corner**.
-3. It will open the **'Music Extensions'** hub.
+2. Open **Flow** then see the **setting** icon on the Top-Right corner.
+3. Then scroll download and click on **extensions**.
 4. Press the **Add (+)** utility button and click on the **File** selection criteria option.
 5. Choose your downloaded `.eapk` module asset inside the Android Storage File Tree wrapper to hot-load the music framework instantly.
 
