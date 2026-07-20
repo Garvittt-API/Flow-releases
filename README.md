@@ -452,40 +452,6 @@ class YoutubeEAPK implements Plugin {
 
 ---
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Garvittt-API">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garvittt-API&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=007BFF&icon_color=7B2FF7&text_color=e0e0e8&ring_color=007BFF&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Garvittt-API">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garvittt-API&theme=tokyonight&hide_border=true&background=0a0a0f&ring=007BFF&fire=7B2FF7&currStreakLabel=00D4FF&sideLabels=e0e0e8" width="48%" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvittt-API&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=007BFF&text_color=e0e0e8&langs_count=6" width="50%" alt="Top Languages" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkling_1f496.gif" width="25"> Thanks for visiting!
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Animation" />
 
 <br><br>
 
