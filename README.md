@@ -1,111 +1,325 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Garvittt-API/Flow-releases/master/icon.png" width="120" style="border-radius: 50%; box-shadow: 0 0 40px rgba(0,123,255,0.4);" />
+</p>
 
-<div align="center">
+<h1 align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=FLOW+MUSIC+PLAYER;Redefining+Android+Audio" alt="Flow Music Player Typing SVG" />
+</h1>
 
-<!-- HEADER BANNER -->
-<img src="https://images.unsplash.com/photo-1614149162883-504ce4d13909?q=80&w=1200&auto=format&fit=crop" alt="Flow Music Banner" style="border-radius: 15px; margin-bottom: 20px; width: 100%; max-height: 250px; object-fit: cover;"/>
-
-<!-- APP LOGO -->
-<!-- Replace 'icon.png' with the actual path to your blue icon file inside your repository -->
-<img src="icon.png" alt="Flow Music Logo" width="140" height="140" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0, 150, 255, 0.3); margin-bottom: 20px;"/>
-
-# 🎵 FLOW MUSIC PLAYER
-### *Redefining Android Audio Architecture with Modular Power.*
+<p align="center">
+  <em>Extension-based music player for Android — stream from YouTube, Spotify, Deezer & more through a modular <code>.eapk</code> plugin architecture.</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/Garvittt-API/Flow-releases/releases">
-    <img src="https://img.shields.io/github/v/release/Garvittt-API/Flow-releases?style=for-the-badge&color=007BFF&logo=github&labelColor=1a1a1a" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/Garvittt-API/Flow-releases?style=for-the-badge&color=007BFF&label=Latest+Release" alt="Latest Release">
   </a>
-  <img src="https://img.shields.io/badge/Platform-Android_9.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" alt="Platform">
-  <img src="https://img.shields.io/badge/Architecture-Modular_.EAPK-FFD700?style=for-the-badge&logo=code-igniter&logoColor=black&labelColor=1a1a1a" alt="Architecture">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=1a1a1a" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Android_9.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/Architecture-Modular_.EAPK-7B2FF7?style=for-the-badge&logo=codingame&logoColor=white" alt="Architecture">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
-
-<h4>
-  <a href="#-the-flow-experience">Experience</a> • 
-  <a href="#-supported-platforms">Platforms</a> • 
-  <a href="#-installation-terminal">Installation</a> • 
-  <a href="#-modular-architecture">Architecture</a>
-</h4>
-
----
-
-</div>
-
-## ✨ The Flow Experience
-
-Flow isn't just a music player; it is a highly scalable audio engine built on a modular framework. By decoupling the core playback engine from music sources, Flow allows you to inject custom `.eapk` modules to stream, download, and manage audio from anywhere.
-
-| 🧩 **True Modularity** | ⚡ **Lightweight & Fast** |
-| :--- | :--- |
-| Inject custom `.eapk` plugins to expand functionality instantly without updating the core app. | Written for modern Android devices, ensuring zero bloat, fast startup times, and smooth animations. |
-| 🎨 **Dynamic UI** | 🛡️ **Total Privacy** |
-| A highly polished interface that adapts to your music, offering a premium listening experience. | No hidden trackers. Flow plays your music, your way, on your device. |
-
----
-
-## 🌐 Supported Platforms
-
-Flow's modular `.eapk` framework currently supports seamless integration with the following media servers and streaming platforms:
-
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6um_bMioNod-TuAgqrmxHpkAbP7NKweT65O0-gI8ESw&s=10" width="70" style="margin: 15px;" alt="YouTube Music"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWTwW6G3u6BD3EKtlDvGQh2b1hR1F8NXhhdH34kEHEA&s=10" width="70" style="margin: 15px;" alt="Deezer"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzmPtxMIa4TqQPN8pwGny-xfU4IA6O6yZPM6hrdPmD_YPNJjehdm7Qls3&s=10" width="70" style="margin: 15px;" alt="Jellyfin"/>
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/067/941/728/small/jiosaavn-logo-rounded-hd-free-png.png" width="70" style="margin: 15px;" alt="JioSaavn"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXZYUmaT3qdSVLRyYTPCnj_WtxUzTK4tFGKHExCsB_w&s" width="70" style="margin: 15px;" alt="Groove Music"/>
-</div>
 
 <p align="center">
-  <i>More platforms can be added dynamically by importing new extension modules!</i>
+  <img src="https://komarev.com/ghpvc/?username=Garvittt-API&repo=Flow-releases&color=007BFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://img.shields.io/github/stars/Garvittt-API/Flow-releases?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/watchers/Garvittt-API/Flow-releases?style=social" alt="Watchers">
 </p>
 
----
+<br>
 
-## 🚀 Installation Terminal
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-supported-platforms">Platforms</a> •
+  <a href="#%EF%B8%8F-modular-architecture">Architecture</a> •
+  <a href="#-installation">Install</a> •
+  <a href="#-project-ecosystem">Ecosystem</a> •
+  <a href="#-support">Support</a>
+</p>
 
-Follow this :
-
-### 📱 Phase 1: Install the Flow App
-
-1. Go to the **[Flow Releases Page](https://github.com/Garvittt-API/Flow-releases/releases)**.
-2. Download the latest `.apk` file to your device.
-3. If your phone asks for permission, allow it to **"Install apps from unknown sources."**
-4. Open the downloaded file and install the **Flow** app.
-
----
-
-### 🔌 Phase 2: Add Extensions (Plugins)
-
-1. Download your preferred plugin from the **[Flow Extensions Vault](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)** (the file will end in `.eapk`).
-2. Open the **Flow** app and tap the **Settings (gear) icon** in the top-right corner.
-3. Scroll down and tap on **Extensions**.
-4. Tap the **Plus (+)** button, then select **File**.
-5. Find and select the `.eapk` file you just downloaded from your phone's files to activate it.
----
-
-## 🏗️ Modular Architecture
-
-Flow utilizes a unique **Core-to-Plugin** bridge design:
-
-* **The Engine (Core):** Handles UI rendering, media session management, audio focus, and background playback.
-* **The Nodes (.eapk):** Isolated plugin binaries that act as content resolvers. They scrape, fetch, and deliver audio metadata and streams back to the core.
-
-> **Why this matters:** If a music source breaks or changes its API, you don't need to wait for a full app update. Just swap or update the specific `.eapk` extension!
+<br>
 
 ---
 
-## 🔗 Project Ecosystem
+<br>
 
-Navigate the Flow architecture repositories here:
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="25"> The Flow Experience
 
-* ⚙️ **System Master Engine:** [Garvittt-API/Flow-releases](https://www.google.com/search?q=https://github.com/Garvittt-API/Flow-releases) *(Core Application)*
-* 🔌 **Plugin Integration Matrix:** [Garvittt-API/Flow-extension](https://github.com/Garvittt-API/Flow-extension) *(.eapk Modules)*
+> Flow isn't just a music player — it's a highly scalable audio engine built on a modular framework.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧩 True Modularity
+Inject custom `.eapk` plugins to expand functionality **instantly** without updating the core app.
+
+```
+┌──────────────────────────────┐
+│  🔌 Drag & Drop .eapk       │
+│  ⚡ Auto-detect & activate   │
+│  🔄 Hot-swap without restart │
+└──────────────────────────────┘
+```
+
+    </td>
+    <td width="50%" valign="top">
+
+### ⚡ Lightweight & Fast
+Written for modern Android — **zero bloat**, fast startup, smooth animations.
+
+```
+┌──────────────────────────────┐
+│  📦 Minimal APK size         │
+│  🚀 Instant cold start       │
+│  🎞️  60fps UI transitions    │
+└──────────────────────────────┘
+```
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎨 Dynamic UI
+A polished interface that adapts to your music — **premium** listening experience.
+
+```
+┌──────────────────────────────┐
+│  🌈 Adaptive theming         │
+│  🖼️  Album art backgrounds   │
+│  📱 Material You support     │
+└──────────────────────────────┘
+```
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🛡️ Total Privacy
+No hidden trackers. Your music, **your way**, on your device.
+
+```
+┌──────────────────────────────┐
+│  🚫 Zero analytics           │
+│  🔒 No account required      │
+│  📵 Offline-first design     │
+└──────────────────────────────┘
+```
+
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-## 📬 Maintenance & Support Protocol
+<br>
 
-Encountered an optimization flaw or have a structural suggestion to present? Flow thrives on community debugging and feature requests.
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/globe_with_meridians_1f310.gif" width="25"> Supported Platforms
 
-* **Bug Reports & Features:** File an analytical operational report directly inside the repository's **Issues Tracker**.
-* **Direct Comm-Link:** Connect via formal transmission pipelines at **[garvitchoudhary2315@gmail.com](https://www.google.com/search?q=mailto%3Agarvitchoudhary2315%40gmail.com)**.
+Flow's modular `.eapk` framework supports these streaming platforms — and **more can be added dynamically**.
+
+<table align="center">
+  <tr>
+    <td align="center" width="15%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/assets/badges/social/youtube-music.svg" width="100">
+        <br>
+        <sub><b>YouTube Music</b></sub>
+      </a>
+      <br>
+      <code>.eapk ready</code>
+    </td>
+    <td align="center" width="15%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/assets/badges/social/spotify.svg" width="100">
+        <br>
+        <sub><b>Spotify</b></sub>
+      </a>
+      <br>
+      <code>.eapk ready</code>
+    </td>
+    <td align="center" width="15%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Deezer-E2231A?style=for-the-badge&logo=deezer&logoColor=white" width="100">
+        <br>
+        <sub><b>Deezer</b></sub>
+      </a>
+      <br>
+      <code>.eapk ready</code>
+    </td>
+    <td align="center" width="15%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" width="100">
+        <br>
+        <sub><b>Jellyfin</b></sub>
+      </a>
+      <br>
+      <code>.eapk ready</code>
+    </td>
+    <td align="center" width="15%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/JioSaavn-2BC2FF?style=for-the-badge&logo=jio&logoColor=white" width="100">
+        <br>
+        <sub><b>JioSaavn</b></sub>
+      </a>
+      <br>
+      <code>.eapk ready</code>
+    </td>
+    <td align="center" width="15%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Groove-FFB900?style=for-the-badge&logo=microsoft&logoColor=black" width="100">
+        <br>
+        <sub><b>Groove Music</b></sub>
+      </a>
+      <br>
+      <code>.eapk ready</code>
+    </td>
+  </tr>
+</table>
+
+> **Want more?** Import any new `.eapk` extension module to add support instantly.
+
+<br>
+
+---
+
+<br>
+
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/hammer_and_wrench_1f6e0.gif" width="25"> Modular Architecture
+
+Flow uses a unique **Core-to-Plugin** bridge design — decoupling the playback engine from content sources.
+
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <h3>⚙️ The Engine (Core)</h3>
+      <img src="https://img.shields.io/badge/UI_Rendering-007BFF?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Media_Session-007BFF?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Audio_Focus-007BFF?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Background_Play-007BFF?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Playlist_System-007BFF?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Equalizer-007BFF?style=flat-square" alt="">
+      <br><br>
+      <sub>Handles everything the user sees and hears.</sub>
+    </td>
+    <td width="10%" align="center">
+      <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/antenna_bars_1f4e1.gif" width="30"></h2>
+      <sub><code>.eapk Bridge</code></sub>
+    </td>
+    <td width="45%" align="center">
+      <h3>🔌 The Nodes (.eapk)</h3>
+      <img src="https://img.shields.io/badge/Plugin_Binaries-7B2FF7?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Content_Resolvers-7B2FF7?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Stream_Fetchers-7B2FF7?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Metadata_Scrapers-7B2FF7?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Offline_Cache-7B2FF7?style=flat-square" alt="">
+      <img src="https://img.shields.io/badge/Hot_Swap-7B2FF7?style=flat-square" alt="">
+      <br><br>
+      <sub>Isolated plugins that deliver audio sources.</sub>
+    </td>
+  </tr>
+</table>
+
+> **Why this matters:** If a music source breaks or changes its API, you don't need a full app update. Just swap the specific `.eapk` extension.
+
+<br>
+
+---
+
+<br>
+
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Installation
+
+### Phase 1 — Install Flow App
+
+1. Go to the **[Flow Releases Page](https://github.com/Garvittt-API/Flow-releases/releases)**
+2. Download the latest `.apk` file
+3. Allow **"Install from unknown sources"** if prompted
+4. Open & install the Flow app
+
+### Phase 2 — Add Extensions
+
+1. Download a plugin from the **[Extensions Vault](https://github.com/Garvittt-API/Flow-extension/releases/tag/extension)** (`.eapk` files)
+2. Open Flow → tap **Settings** (gear icon)
+3. Scroll to **Extensions** → tap **Plus (+)**
+4. Select the `.eapk` file to activate it
+
+<br>
+
+---
+
+<br>
+
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/link_1f517.gif" width="25"> Project Ecosystem
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Garvittt-API/Flow-releases">
+        <img src="https://img.shields.io/badge/⚙️_System_Master_Engine-Flow_Releases-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Flow Releases">
+      </a>
+      <br>
+      <sub>Core Application & APK Downloads</sub>
+    </td>
+    <td width="30" align="center"></td>
+    <td align="center">
+      <a href="https://github.com/Garvittt-API/Flow-extension">
+        <img src="https://img.shields.io/badge/🔌_Plugin_Matrix-Flow_Extensions-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="Flow Extensions">
+      </a>
+      <br>
+      <sub>.eapk Plugin Modules Repository</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/maintenance_1f6e0-fe0f.gif" width="25"> Support
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Garvittt-API/Flow-releases/issues">
+        <img src="https://img.shields.io/badge/🐛_Bug_Reports-Issues-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Bug Reports">
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="mailto:garvitchoudhary2315@gmail.com">
+        <img src="https://img.shields.io/badge/📬_Direct_Contact-Email-007BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://github.com/Garvittt-API/Flow-releases/releases">
+        <img src="https://img.shields.io/badge/📥_Get_App-Releases-00E676?style=for-the-badge&logo=android&logoColor=white" alt="Download">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation">
+</p>
+
+<br>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/Garvittt-API"><b>Garvittt-API</b></a> • MIT License • 2026
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered_by-Passion_for_Music-FF6B9D?style=for-the-badge&logo=deezer&logoColor=white" alt="Powered by Music">
+</p>
