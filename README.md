@@ -8,7 +8,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=44&duration=2800&pause=1200&color=007BFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8E%B5+FLOW+MUSIC+%F0%9F%8E%B5;Redefining+Android+Audio+Architecture" alt="Flow Typing Banner" />
+<a href="https://github.com/Garvittt-API/Flow-releases">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:7B2FF7,100:00D4FF&height=250&section=header&text=FLOW%20MUSIC%20PLAYER&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Redefining%20Android%20Audio%20Architecture&descSize=20&descAlignY=55&descAlign=50&animation=fadeIn&customColorList=0,50,100" width="100%" alt="Flow Music Player Banner" />
+
+</a>
 
 <br><br>
 
