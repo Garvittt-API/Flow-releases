@@ -28,10 +28,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-
-<br><br>
-
 <a href="#-the-flow-experience"><img src="https://img.shields.io/badge/✨_FEATURES-Click_Here-007BFF?style=for-the-badge" alt="Features" /></a>
 <a href="#-supported-platforms"><img src="https://img.shields.io/badge/🌐_PLATFORMS-Click_Here-00E676?style=for-the-badge" alt="Platforms" /></a>
 <a href="#%EF%B8%8F-modular-architecture"><img src="https://img.shields.io/badge/🏗️_ARCHITECTURE-Click_Here-7B2FF7?style=for-the-badge" alt="Architecture" /></a>
