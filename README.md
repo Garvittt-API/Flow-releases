@@ -153,67 +153,43 @@ No hidden trackers. Your music, **your way**, on your device. Period.
 <table align="center">
 <tr>
 <td align="center" width="16%">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/assets/badges/social/youtube-music.svg" width="110">
-  </a>
-  <br>
-  <b>YouTube Music</b>
-  <br>
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" width="130">
+  <br><br>
   <code>.eapk ready</code>
   <br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00E676?style=flat-square" />
 </td>
 <td align="center" width="16%">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/assets/badges/social/spotify.svg" width="110">
-  </a>
-  <br>
-  <b>Spotify</b>
-  <br>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" width="130">
+  <br><br>
   <code>.eapk ready</code>
   <br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00E676?style=flat-square" />
 </td>
 <td align="center" width="16%">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Deezer-E2231A?style=for-the-badge&logo=deezer&logoColor=white" width="110">
-  </a>
-  <br>
-  <b>Deezer</b>
-  <br>
+  <img src="https://img.shields.io/badge/Deezer-E2231A?style=for-the-badge&logo=deezer&logoColor=white" width="130">
+  <br><br>
   <code>.eapk ready</code>
   <br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00E676?style=flat-square" />
 </td>
 <td align="center" width="16%">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" width="110">
-  </a>
-  <br>
-  <b>Jellyfin</b>
-  <br>
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" width="130">
+  <br><br>
   <code>.eapk ready</code>
   <br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00E676?style=flat-square" />
 </td>
 <td align="center" width="16%">
-  <a href="#">
-    <img src="https://img.shields.io/badge/JioSaavn-2BC2FF?style=for-the-badge&logo=jio&logoColor=white" width="110">
-  </a>
-  <br>
-  <b>JioSaavn</b>
-  <br>
+  <img src="https://img.shields.io/badge/JioSaavn-2BC2FF?style=for-the-badge&logo=jio&logoColor=white" width="130">
+  <br><br>
   <code>.eapk ready</code>
   <br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00E676?style=flat-square" />
 </td>
 <td align="center" width="16%">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Groove-FFB900?style=for-the-badge&logo=microsoft&logoColor=black" width="110">
-  </a>
-  <br>
-  <b>Groove Music</b>
-  <br>
+  <img src="https://img.shields.io/badge/Groove_Music-FFB900?style=for-the-badge&logo=microsoft&logoColor=black" width="130">
+  <br><br>
   <code>.eapk ready</code>
   <br>
   <img src="https://img.shields.io/badge/Status-ACTIVE-00E676?style=flat-square" />
